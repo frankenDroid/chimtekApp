@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chimtekApp.iml" filepath="$PROJECT_DIR$/chimtekApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chimtekApp/chimtekApp-chimtekApp.iml" filepath="$PROJECT_DIR$/chimtekApp/chimtekApp-chimtekApp.iml" />
+    </modules>
+  </component>
+</project>
+
